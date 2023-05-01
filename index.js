@@ -1,12 +1,14 @@
 const express = require('express');
 const app = express();
 const port = 5000;
+const cors = require('cors')
 const chef = require('./data/chef.json');
 const recipe = require('./data/recipe.json')
 
 app.get('/', (req, res) =>{
     res.send('Hello from Iranian Food')
 })
+app.use(cors())
 app.get('/chef',(req, res) =>{
     res.send(chef)
 });
