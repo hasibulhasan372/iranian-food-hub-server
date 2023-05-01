@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "Khoresh Gheymeh",
+      "ratings": 4.5,
+      "ingredients": ["lamb", "yellow split peas", "onions", "potatoes"],
+      "cookingMethods": ["stovetop", "pressure cooker"],
+      "chef_id": "ifh_1"
+    },
+    {
+      "id": 2,
+      "name": "Joojeh Kabab",
+      "ratings": 4.2,
+      "ingredients": ["chicken", "yogurt", "saffron", "onions"],
+      "cookingMethods": ["grill", "oven"],
+      "chef_id": "ifh_3"
+    },
+    {
+      "id": 3,
+      "name": "Tahchin",
+      "ratings": 4.8,
+      "ingredients": ["chicken", "rice", "yogurt", "saffron"],
+      "cookingMethods": ["oven"],
+      "chef_id": "ifh_6"
+    },
+    {
+      "id": 4,
+      "name": "Fesenjan",
+      "ratings": 4.6,
+      "ingredients": ["chicken", "walnuts", "pomegranate paste", "onions"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_3"
+    },
+    {
+      "id": 5,
+      "name": "Zereshk Polo",
+      "ratings": 4.2,
+      "ingredients": ["chicken", "barberry", "rice", "saffron"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_2"
+    },
+    {
+      "id": 6,
+      "name": "Baghali Polo",
+      "ratings": 4.3,
+      "ingredients": ["lamb", "dill", "fava beans", "rice"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_5"
+    },
+    {
+      "id": 7,
+      "name": "Ash Reshteh",
+      "ratings": 4.7,
+      "ingredients": ["noodles", "beans", "herbs", "whey", "kashk"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_1"
+    },
+    {
+      "id": 8,
+      "name": "Ghormeh Sabzi",
+      "ratings": 4.5,
+      "ingredients": ["lamb", "herbs", "kidney beans", "dried lime"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_6"
+    },
+    {
+      "id": 9,
+      "name": "Kuku Sabzi",
+      "ratings": 4.6,
+      "ingredients": ["herbs", "eggs", "walnuts", "barberries"],
+      "cookingMethods": ["oven"],
+      "chef_id": "ifh_4"
+    },
+    {
+      "id": 10,
+      "name": "Kashke Bademjan",
+      "ratings": 4.2,
+      "ingredients": ["eggplant", "kashk", "onions", "garlic"],
+      "cookingMethods": ["oven"],
+      "chef_id": "ifh_2"
+    },
+    {
+      "id": 11,
+      "name": "Morasa Polo",
+      "ratings": 4.4,
+      "ingredients": ["chicken", "orange peel", "almonds", "barberries"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_4"
+    },
+    {
+      "id": 12,
+      "name": "Mirza Ghasemi",
+      "ratings": 4.5,
+      "ingredients": ["eggplant", "tomatoes", "garlic", "eggs"],
+      "cookingMethods": ["stovetop"],
+      "chef_id": "ifh_5"
+    }
+]
+  
