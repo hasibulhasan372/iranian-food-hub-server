@@ -1,0 +1,48 @@
+[{
+    "id": "ifh_1",
+    "name": "Hamid Salimian",
+    "yearOfExperience": 10,
+    "numOfRecipes": 50,
+    "likes": 1000,
+    "img": "https://i.ibb.co/8D9rR7V/chef-one.jpg"
+},
+{
+    "id": "ifh_2",
+    "name": "Shahrzad Shokouhivand",
+    "yearOfExperience": 8,
+    "numOfRecipes": 60,
+    "likes": 800,
+    "img": "https://i.ibb.co/BPfW4CN/chef-two.webp"
+},
+{
+    "id": "ifh_3",
+    "name": "Roshanak K Farahani",
+    "yearOfExperience": 5,
+    "numOfRecipes": 30,
+    "likes": 500,
+    "img": "https://i.ibb.co/f1WygMG/chef-three.jpg"
+},
+{
+    "id": "ifh_4",
+    "name": "Payam Abnoosi",
+    "yearOfExperience": 3,
+    "numOfRecipes": 20,
+    "likes": 200,
+    "img": "https://i.ibb.co/zr38xMX/chef-four.jpg"
+},
+{
+    "id": "ifh_5",
+    "name": "Reza Dehnamaki",
+    "yearOfExperience": 7,
+    "numOfRecipes": 40,
+    "likes": 700,
+    "img": "https://i.ibb.co/02P6YPd/chef-five.jpg"
+},
+{
+    "id": "ifh_6",
+    "name": "AShkan Ashtari",
+    "yearOfExperience": 2,
+    "numOfRecipes": 10,
+    "likes": 100,
+    "img": "https://i.ibb.co/P4MQYL7/chef-six.jpg"
+}]
