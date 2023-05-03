@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title": "Fresh Healthy Food",
+        "details" : "Eating a variety of foods from the 5 major food groups provides a range of nutrients to the body, promotes good health and can help reduce the risk of disease - as well as keeping your diet interesting with different flavours and textures.",
+        "icon" : "https://i.ibb.co/rk2py79/3-1.png"
+    },
+    {
+        "id" : 2,
+        "title": "24/7 Service",
+        "details" : "Nothing makes us happier than serving you but right now we are facing a bigger challenge. We all are aware of the current situation and for that, we are closing our dine in until the situation gets better. We are open 24/7 ",
+        "icon" : "https://i.ibb.co/Yf4B6C9/3-2.png"
+    },
+    {
+        "id" : 3,
+        "title": "Quick Service",
+        "details" : "We provide quick service establishment offers the fastest service along with the least expensive ticket items.",
+        "icon" : "https://i.ibb.co/VV7jHbC/3-5.png"
+    },
+    {
+        "id" : 4,
+        "title": "Traditional Cuisine",
+        "details" : "Typical Iranian main dishes are combinations of rice with meat, vegetables and nuts. Herbs are frequently used, along with fruits such as plums, pomegranates, quince, prunes, apricots and raisins. Characteristic Iranian spices and flavourings such as saffron, cardamom, and dried lime and other sources of sour flavoring, cinnamon, turmeric and parsley are mixed and used in various dishes.",
+        "icon" : "https://i.ibb.co/MC4gMxW/3-4.png"
+    }
+]

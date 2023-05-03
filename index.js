@@ -3,7 +3,8 @@ const app = express();
 const port = 5000;
 const cors = require('cors')
 const chef = require('./data/chef.json');
-const recipe = require('./data/recipe.json')
+const recipe = require('./data/recipe.json');
+const service = require ('./data/service.json')
 
 app.get('/', (req, res) =>{
     res.send('Hello from Iranian Food')
@@ -32,6 +33,10 @@ app.get('/chef/:id', (req, res) =>{
         res.send(chefRecipe)
     }
 })
+app.get('/service', (req, res) =>{
+    res.send(service)
+})
+
 app.listen(port, () =>{
     console.log(`Iranian Food Hub API is running on port: ${port}`)
 })
