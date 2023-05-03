@@ -3,97 +3,163 @@
       "id": 1,
       "name": "Khoresh Gheymeh",
       "ratings": 4.5,
-      "ingredients": ["lamb", "yellow split peas", "onions", "potatoes"],
-      "cookingMethods": ["stovetop", "pressure cooker"],
-      "chef_id": "ifh_1"
+      "ingredients": ["lamb", "yellow split peas", "onions", "potatoes", "chicken"],
+      "cookingMethods": "Cut beef into 1x1/2-inch cubes and place in a large bowl. Add onion, lime juice, salt, and black pepper; mix well. Cover the bowl and refrigerate for 8 hours to overnight.",
+      "chef_id": "ifh_1",
+      "img": "https://i.ibb.co/phfGrQ8/8061856-jujeh-kabob-persian-chicken-kabobs-france-c-4702673bca714596acdd982c2ac0e091.webp"
     },
     {
       "id": 2,
       "name": "Joojeh Kabab",
       "ratings": 4.2,
-      "ingredients": ["chicken", "yogurt", "saffron", "onions"],
-      "cookingMethods": ["grill", "oven"],
-      "chef_id": "ifh_3"
+      "ingredients": ["chicken", "yogurt", "saffron", "onions", "spices"],
+      "cookingMethods": "Place kebabs on the preheated grill. Do not try to turn them until they begin to unstick from the grill, 3 or 4 minutes. Turn kebabs and grill the other side for 3 to 4 minutes. Continue cooking and turning until chicken is no longer pink in the center, about 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)",
+      "chef_id": "ifh_3",
+      "img": "https://i.ibb.co/q9x48xQ/koobideh.jpg"
     },
     {
       "id": 3,
       "name": "Tahchin",
       "ratings": 4.8,
-      "ingredients": ["chicken", "rice", "yogurt", "saffron"],
-      "cookingMethods": ["oven"],
-      "chef_id": "ifh_6"
+      "ingredients": ["chicken", "rice", "yogurt", "saffron", "onions"],
+      "cookingMethods": "Cut beef into 1x1/2-inch cubes and place in a large bowl. Add onion, lime juice, salt, and black pepper; mix well. Cover the bowl and refrigerate for 8 hours to overnight.",
+      "chef_id": "ifh_6",
+      "img": "https://i.ibb.co/8DKdM2w/Kabab-Koobideh-Recipe-1.jpg"
     },
     {
       "id": 4,
       "name": "Fesenjan",
       "ratings": 4.6,
-      "ingredients": ["chicken", "walnuts", "pomegranate paste", "onions"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_3"
+      "ingredients": ["chicken", "walnuts", "pomegranate paste", "onions", "rice"],
+      "cookingMethods": "Cut beef into 1x1/2-inch cubes and place in a large bowl. Add onion, lime juice, salt, and black pepper; mix well. Cover the bowl and refrigerate for 8 hours to overnight.",
+      "chef_id": "ifh_3",
+      "img": "https://i.ibb.co/bbzgBxS/persian-golden-rice-01.jpg"
     },
     {
       "id": 5,
       "name": "Zereshk Polo",
       "ratings": 4.2,
-      "ingredients": ["chicken", "barberry", "rice", "saffron"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_2"
+      "ingredients": ["chicken", "barberry", "rice", "saffron", "spices"],
+      "cookingMethods": "Place kebabs on the preheated grill. Do not try to turn them until they begin to unstick from the grill, 3 or 4 minutes. Turn kebabs and grill the other side for 3 to 4 minutes. Continue cooking and turning until chicken is no longer pink in the center, about 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)",
+      "chef_id": "ifh_2",
+      "img": "https://i.ibb.co/bbzgBxS/persian-golden-rice-01.jpg"
     },
     {
       "id": 6,
       "name": "Baghali Polo",
       "ratings": 4.3,
-      "ingredients": ["lamb", "dill", "fava beans", "rice"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_5"
+      "ingredients": ["lamb", "dill", "fava beans", "rice", "onions"],
+      "cookingMethods": "Heat olive oil in a saucepan over medium-high heat. Add onion, salt, and lamb. Break up lamb into small crumbles. Cook, occasionally stirring, until most of the liquid evaporates, about 8 minutes. Toss in garlic, currants, pine nuts, cumin, coriander, cinnamon, paprika, black pepper, cayenne, and allspice. Cook and stir for 1 minute.",
+      "chef_id": "ifh_5",
+      "img": "https://i.ibb.co/5FGnXts/Javaher-Polow.jpg"
     },
     {
       "id": 7,
       "name": "Ash Reshteh",
       "ratings": 4.7,
-      "ingredients": ["noodles", "beans", "herbs", "whey", "kashk"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_1"
+      "ingredients": ["noodles", "beans", "herbs", "whey", "kashk", "chicken"],
+      "cookingMethods": "Cook steaks on the preheated grill until nicely browned on the outside and slightly pink in the center, about 5 minutes per side for medium. An instant-read thermometer inserted into the center should read at least 140 degrees F (60 degrees C).",
+      "chef_id": "ifh_1",
+      "img": "https://i.ibb.co/HG3N4vY/Persian-Tamarind-fish-11.webp"
     },
     {
       "id": 8,
       "name": "Ghormeh Sabzi",
       "ratings": 4.5,
-      "ingredients": ["lamb", "herbs", "kidney beans", "dried lime"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_6"
+      "ingredients": ["lamb", "herbs", "kidney beans", "dried lime", "beans"],
+      "cookingMethods": "Heat olive oil in a saucepan over medium-high heat. Add onion, salt, and lamb. Break up lamb into small crumbles. Cook, occasionally stirring, until most of the liquid evaporates, about 8 minutes. Toss in garlic, currants, pine nuts, cumin, coriander, cinnamon, paprika, black pepper, cayenne, and allspice. Cook and stir for 1 minute.",
+      "chef_id": "ifh_6",
+      "img": "https://i.ibb.co/kDqpBmZ/istockphoto-1018535186-612x612.jpg"
     },
     {
       "id": 9,
       "name": "Kuku Sabzi",
       "ratings": 4.6,
-      "ingredients": ["herbs", "eggs", "walnuts", "barberries"],
-      "cookingMethods": ["oven"],
-      "chef_id": "ifh_4"
+      "ingredients": ["herbs", "eggs", "walnuts", "barberries", "garlic"],
+      "cookingMethods": "Place kebabs on the preheated grill. Do not try to turn them until they begin to unstick from the grill, 3 or 4 minutes. Turn kebabs and grill the other side for 3 to 4 minutes. Continue cooking and turning until chicken is no longer pink in the center, about 6 minutes more. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)",
+      "chef_id": "ifh_4",
+      "img": "https://i.ibb.co/8DKdM2w/Kabab-Koobideh-Recipe-1.jpg"
     },
     {
       "id": 10,
       "name": "Kashke Bademjan",
       "ratings": 4.2,
-      "ingredients": ["eggplant", "kashk", "onions", "garlic"],
-      "cookingMethods": ["oven"],
-      "chef_id": "ifh_2"
+      "ingredients": ["eggplant", "kashk", "onions", "garlic", "chicken"],
+      "cookingMethods": "Cook steaks on the preheated grill until nicely browned on the outside and slightly pink in the center, about 5 minutes per side for medium. An instant-read thermometer inserted into the center should read at least 140 degrees F (60 degrees C).",
+      "chef_id": "ifh_2",
+      "img": "https://i.ibb.co/q9x48xQ/koobideh.jpg"
     },
     {
       "id": 11,
       "name": "Morasa Polo",
       "ratings": 4.4,
-      "ingredients": ["chicken", "orange peel", "almonds", "barberries"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_4"
+      "ingredients": ["chicken", "orange peel", "almonds", "barberries", "onions"],
+      "cookingMethods": "Bake in the preheated oven for 20 minutes, then reduce heat to 400 degrees F (200 degrees C) and roast for 55 to 60 more minutes for medium rare. An instant-read thermometer inserted into the center should read at least 120 degrees F (50 degrees C). Let lamb rest for about 10 minutes before carving.",
+      "chef_id": "ifh_4",
+      "img": "https://i.ibb.co/phfGrQ8/8061856-jujeh-kabob-persian-chicken-kabobs-france-c-4702673bca714596acdd982c2ac0e091.webp"
     },
     {
       "id": 12,
       "name": "Mirza Ghasemi",
       "ratings": 4.5,
-      "ingredients": ["eggplant", "tomatoes", "garlic", "eggs"],
-      "cookingMethods": ["stovetop"],
-      "chef_id": "ifh_5"
+      "ingredients": ["eggplant", "tomatoes", "garlic", "eggs", "rice"],
+      "cookingMethods": "Bake in the preheated oven for 20 minutes, then reduce heat to 400 degrees F (200 degrees C) and roast for 55 to 60 more minutes for medium rare. An instant-read thermometer inserted into the center should read at least 120 degrees F (50 degrees C). Let lamb rest for about 10 minutes before carving.",
+      "chef_id": "ifh_5",
+      "img": "https://i.ibb.co/kDqpBmZ/istockphoto-1018535186-612x612.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ash Reshteh",
+      "ratings": 4.7,
+      "ingredients": ["noodles", "beans", "herbs", "whey", "kashk"],
+      "cookingMethods": "Bake in the preheated oven for 20 minutes, then reduce heat to 400 degrees F (200 degrees C) and roast for 55 to 60 more minutes for medium rare. An instant-read thermometer inserted into the center should read at least 120 degrees F (50 degrees C). Let lamb rest for about 10 minutes before carving.",
+      "chef_id": "ifh_6",
+      "img": "https://i.ibb.co/HG3N4vY/Persian-Tamarind-fish-11.webp"
+    },
+    {
+      "id": 14,
+      "name": "Zereshk Polo",
+      "ratings": 4.2,
+      "ingredients": ["chicken", "barberry", "rice", "saffron", "rosemerry"],
+      "cookingMethods": "Spread 3/4 of the pomegranate molasses mixture over the flesh-side of lamb. Fold meat together and place into a large bowl. Spread remaining pomegranate molasses mixture over the fatty-side of lamb. Cover the bowl with plastic wrap and refrigerate for 8 hours to overnight",
+      "chef_id": "ifh_3",
+      "img": "https://i.ibb.co/bbzgBxS/persian-golden-rice-01.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tahchin",
+      "ratings": 4.8,
+      "ingredients": ["chicken", "rice", "yogurt", "saffron", "onions"],
+      "cookingMethods": "Heat olive oil in a saucepan over medium-high heat. Add onion, salt, and lamb. Break up lamb into small crumbles. Cook, occasionally stirring, until most of the liquid evaporates, about 8 minutes. Toss in garlic, currants, pine nuts, cumin, coriander, cinnamon, paprika, black pepper, cayenne, and allspice. Cook and stir for 1 minute.",
+      "chef_id": "ifh_2",
+      "img": "https://i.ibb.co/8DKdM2w/Kabab-Koobideh-Recipe-1.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Baghali Polo",
+      "ratings": 4.3,
+      "ingredients": ["lamb", "dill", "fava beans", "rice", "spices"],
+      "cookingMethods": "Spread 3/4 of the pomegranate molasses mixture over the flesh-side of lamb. Fold meat together and place into a large bowl. Spread remaining pomegranate molasses mixture over the fatty-side of lamb. Cover the bowl with plastic wrap and refrigerate for 8 hours to overnight",
+      "chef_id": "ifh_4",
+      "img": "https://i.ibb.co/5FGnXts/Javaher-Polow.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Joojeh Kabab",
+      "ratings": 4.2,
+      "ingredients": ["chicken", "yogurt", "saffron", "onions", "black-pepper"],
+      "cookingMethods": "Cook steaks on the preheated grill until nicely browned on the outside and slightly pink in the center, about 5 minutes per side for medium. An instant-read thermometer inserted into the center should read at least 140 degrees F (60 degrees C).",
+      "chef_id": "ifh_5",
+      "img": "https://i.ibb.co/q9x48xQ/koobideh.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mirza Ghasemi",
+      "ratings": 4.5,
+      "ingredients": ["eggplant", "tomatoes", "garlic", "eggs", "lamb"],
+      "cookingMethods": "Spread 3/4 of the pomegranate molasses mixture over the flesh-side of lamb. Fold meat together and place into a large bowl. Spread remaining pomegranate molasses mixture over the fatty-side of lamb. Cover the bowl with plastic wrap and refrigerate for 8 hours to overnight",
+      "chef_id": "ifh_1",
+      "img": "https://i.ibb.co/kDqpBmZ/istockphoto-1018535186-612x612.jpg"
     }
 ]
   

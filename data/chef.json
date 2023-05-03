@@ -4,7 +4,9 @@
     "yearOfExperience": 10,
     "numOfRecipes": 50,
     "likes": 1000,
-    "img": "https://i.ibb.co/8D9rR7V/chef-one.jpg"
+    "img": "https://i.ibb.co/8D9rR7V/chef-one.jpg",
+    "bg_photo": "https://i.ibb.co/5hH11gm/GP-Survey-Results-2360.jpg",
+    "bio": "Born in Iran, Hamid grew up on the edge of the Caspian Sea and learned about traditional Persian cuisine amid his father’s citrus orchards and dairy farm. Soon after his family relocated to Vancouver, British Columbia, Hamid enrolled in culinary and pastry arts at Vancouver Community College for his first formal training as a chef and graduated at the top of his class. He learned the essential skills to combine the heritage of Persian cuisine with influences of the Pacific Northwest and began to define a uniquely creative and contemporary approach. During his apprenticeship at Vancouver’s renowned Sutton Place Hotel, Hamid trained in classic French cuisine and began to explore the world of food competition."
 },
 {
     "id": "ifh_2",
@@ -12,7 +14,9 @@
     "yearOfExperience": 8,
     "numOfRecipes": 60,
     "likes": 800,
-    "img": "https://i.ibb.co/BPfW4CN/chef-two.webp"
+    "img": "https://i.ibb.co/BPfW4CN/chef-two.webp",
+    "bg_photo": "https://i.ibb.co/ckNh74c/Femme-Chic1.png",
+    "bio": "She could have left Iran, as many of her contemporaries did, but Paris-trained pastry chef Shahrzad Shokouhivand decided to stay and work to make women's lives better inside the country. And the icing on the cake? She and her husband now employ 70 people -- mostly women. It's only by working here that we'll change things in Iran, said the 36-year-old, speaking to AFP in one of her two chic cafe-pastry shops in Tehran."
 },
 {
     "id": "ifh_3",
@@ -20,7 +24,9 @@
     "yearOfExperience": 5,
     "numOfRecipes": 30,
     "likes": 500,
-    "img": "https://i.ibb.co/f1WygMG/chef-three.jpg"
+    "img": "https://i.ibb.co/3kxrTWY/71m0d-M5w3g-L-RI.jpg",
+    "bg_photo": "https://i.ibb.co/3kxrTWY/71m0d-M5w3g-L-RI.jpg",
+    "bio": "Roshanak K Farahani, is The Chef and Founder of MyPersianKitchen.com - a blog devoted to exploring, enjoying and cooking Persian foods. Born in Iran, he moved to Rome with her mother where he lived for 10 years before settling in Los Angeles in 1990. After graduate school, and in the midst of unanticipated unemployment, he started writing a blog. His stories about food generated the most comments, questions and interest, so My Persian Kitchen was created to concentrate on the recipes of her heritage. He is followed by thousands of readers around the globe, a number which is increasing, especially as interest in Iranian food grows."
 },
 {
     "id": "ifh_4",
@@ -28,7 +34,9 @@
     "yearOfExperience": 3,
     "numOfRecipes": 20,
     "likes": 200,
-    "img": "https://i.ibb.co/zr38xMX/chef-four.jpg"
+    "img": "https://i.ibb.co/zr38xMX/chef-four.jpg",
+    "bg_photo": "https://i.ibb.co/zr38xMX/chef-four.jpg",
+    "bio": "Payam Abnoosi is one of the main reasons why the restaurant is firmly established among the top 10 restaurants in the Tehran area. With a background in Iran gastronomy and years of experience in the industry, he has become one of the most respected chefs in town. Chef Payam Abnoosi is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics."
 },
 {
     "id": "ifh_5",
@@ -36,7 +44,9 @@
     "yearOfExperience": 7,
     "numOfRecipes": 40,
     "likes": 700,
-    "img": "https://i.ibb.co/02P6YPd/chef-five.jpg"
+    "img": "https://i.ibb.co/02P6YPd/chef-five.jpg",
+    "bg_photo": "https://i.ibb.co/02P6YPd/chef-five.jpg",
+    "bio": "Reza Dehnamaki is the head chef at Iranian Food Hub in Iran. Her resume is impressive and includes stints with some of the most prestigious chefs in the country. Her creative take on European classics make her an indispensable member of the restaurant’s staff. He born on 1991."
 },
 {
     "id": "ifh_6",
@@ -44,5 +54,7 @@
     "yearOfExperience": 2,
     "numOfRecipes": 10,
     "likes": 100,
-    "img": "https://i.ibb.co/P4MQYL7/chef-six.jpg"
+    "img": "https://i.ibb.co/P4MQYL7/chef-six.jpg",
+    "bg_photo": "https://i.ibb.co/WtmGvhb/6093ae8edc00646c816b8a4b-Untitled-design-22-1.jpg",
+    "bio": "AShkan Ashtari is originally from Iran . After pursuing an academic career, AShkan Ashtari decided to become a chef and my latest role was as a sous. My cooking style is still developing, but I would like to think that it is diverse and natural. I am mostly influenced by the ingredients around me and I try to process them as little as possible. Furthermore, because of my heritage, the flavours I use are strongly inspired by my upbringing. Due to its geographical situation, Persian cuisine is diverse, with herbs and aromatic flavours dominating the kitchen.I first came across Nurtured in Norfolk in 2016. They provide a wide selection of herbs, from the common parsley to more unique edible leaves such as Peruvian marigold. Overall, the produce is superior in quality and flavour, allowing many options when coming up with new dishes."
 }]
