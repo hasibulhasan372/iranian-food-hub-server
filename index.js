@@ -9,19 +9,23 @@ const service = require ('./data/service.json')
 app.get('/', (req, res) =>{
     res.send('Hello from Iranian Food')
 })
-app.use(cors())
+app.use(cors());
+// Get Chef data 
 app.get('/chef',(req, res) =>{
     res.send(chef)
 });
+// Get Recipe Data 
 app.get('/recipe', (req, res) =>{
     res.send(recipe)
 });
+// get recipe data by Id 
 app.get('/recipe/:id', (req, res) =>{
     const id = parseInt(req.params.id);
     console.log(id)
     const selectedRecipe = recipe.find(menu => menu.id === id);
     res.send(selectedRecipe)
 });
+// Get Chef Data by Id 
 app.get('/chef/:id', (req, res) =>{
     const id = req.params.id;
     console.log(id)
@@ -33,6 +37,7 @@ app.get('/chef/:id', (req, res) =>{
         res.send(chefRecipe)
     }
 })
+// Get Service Data 
 app.get('/service', (req, res) =>{
     res.send(service)
 })
